@@ -21,7 +21,7 @@ DSCOVRY is a project that addresses the critical challenge of near real-time pro
 
 The project structure is organized as follows:
 
-- `data/`: Contains data files and datasets.
+- `dataset/`: Contains data files and datasets.
 - `models/`: Stores trained machine learning models.
 - `notebooks/`: Jupyter notebooks for data exploration and model development.
 - `src/`: Source code for data preprocessing, model implementation, and the Streamlit app.
